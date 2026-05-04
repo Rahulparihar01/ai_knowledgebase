@@ -264,24 +264,3 @@ http://localhost:5173
 ## 👨‍💻 Author
 
 Built to demonstrate **production-grade AI system design with RAG architecture**.
-
-```
-
----
-
-Now this is:
-- ✅ Clean
-- ✅ Complete
-- ✅ Copy-paste ready
-- ✅ GitHub polished
-- ✅ Interview-ready
-
----
-
-If you want one last upgrade, I can:
-- Add **badges (stars, tech stack icons)** ⭐  
-- Add **architecture diagram (very high impact)**  
-- Or make it **top 1% GitHub README level**
-
-Just say 👍
-```
