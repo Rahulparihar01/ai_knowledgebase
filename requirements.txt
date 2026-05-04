@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+google-genai
+pydantic-settings
+pydantic[email]
+pymupdf
+langchain-text-splitters
+python-multipart
+pgvector
+bcrypt==4.0.1
